@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="string" name="chatsdk_minimizedbuttonposition_portrait">middle-right</item>
+    <item type="string" name="chatsdk_minimizedbuttonposition_landscape">middle-right</item>
+    <item type="string" name="chatsdk_minimizedbutton_background">#006480</item>
+     <item type="string" name="chatsdk_minimizedbutton_textcolor">#ffffff</item>
+    <item type="string" name="chatsdk_customminimizestate">false</item>
+    <item type="string" name="chatsdk_urlscheme">247</item>
+    <item type="string" name="chatsdk_height_portrait">100%</item> 
+    <item type="string" name="chatsdk_height_landscape">100%</item> 
+    <item type="string" name="chatsdk_width_portrait">100%</item> 
+    <item type="string" name="chatsdk_width_landscape">100%</item> 
+    <item type="string" name="chatsdk_halign_portrait">center</item> 
+    <item type="string" name="chatsdk_halign_landscape">center</item> 
+    <item type="string" name="chatsdk_valign_portrait">center</item> 
+    <item type="string" name="chatsdk_valign_landscape">center</item> 
+    <item type="string" name="chatsdk_padding_top_portrait">0</item> 
+    <item type="string" name="chatsdk_padding_top_landscape">0</item> 
+    <item type="string" name="chatsdk_padding_bottom_portrait">0</item> 
+    <item type="string" name="chatsdk_padding_bottom_landscape">0</item> 
+    <item type="string" name="chatsdk_padding_left_portrait">0</item> 
+    <item type="string" name="chatsdk_padding_left_landscape">0</item> 
+    <item type="string" name="chatsdk_padding_right_portrait">0</item> 
+    <item type="string" name="chatsdk_padding_right_landscape">0</item>
+</resources>

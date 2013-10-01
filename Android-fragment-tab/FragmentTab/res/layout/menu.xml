@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Single menu item 
+         Set id, icon and Title for each menu item
+    -->
+    <item android:id="@+id/menu_chat"
+          android:title="Chat" />
+ 
+    <item android:id="@+id/menu_videos"
+          android:title="Videos"
+           />
+ 
+    <item android:id="@+id/menu_songs"
+          android:title="Songs" />
+ 
+ 
+</menu>

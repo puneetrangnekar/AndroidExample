@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <item type="string" name="chatsdk_url">https://d1af033869koo7.cloudfront.net/psp/optus/native/index.html</item>
+        <item type="string" name="chatsdk_agentavailability_url">https://assist-stage.px.247-inc.com/en/ca/rest/checkAvailability</item>
+        <item type="string" name="chatsdk_accountId">opt-account-1</item>
+        <item type="string" name="chatsdk_queueId">opt-queue-mobilechat</item>
+</resources>
